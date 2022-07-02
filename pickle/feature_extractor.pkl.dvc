@@ -1,0 +1,4 @@
+outs:
+- md5: e099bb65c8b1bd9be78000214febdaaf
+  size: 131
+  path: feature_extractor.pkl

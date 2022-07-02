@@ -1,0 +1,4 @@
+outs:
+- md5: 966b6da4362eef9774c56cd1ffe3bbe4
+  size: 17438412
+  path: nlp.pkl
