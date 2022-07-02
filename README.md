@@ -4,6 +4,6 @@ This project based on captioning [model](https://huggingface.co/nlpconnect/vit-g
 
 ## TODO
 
-- [] Make bulk image labeling logic
-- [] Make high level logic
-- [] Add evaluation
+- [ ] Make bulk image labeling logic
+- [ ] Make high level logic
+- [ ] Add evaluation
