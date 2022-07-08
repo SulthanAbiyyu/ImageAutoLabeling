@@ -59,7 +59,7 @@ def scrape_images(objects: dict, DRIVER_PATH: str, OUTPUT_PATH: str, LIMIT: int)
 if __name__ == "__main__":
     DRIVER_PATH = "src\chromedriver.exe"
     OUTPUT_PATH = "data/raw"
-    LIMIT = 1000
+    LIMIT = 50
     objects = {
         "cat": "https://www.google.com/search?q=cat&rlz=1C1MSIM_enID949ID949&sxsrf=ALiCzsbgBI8puYQertsnqzxCVYSFLz7L7w:1657277641169&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiq_-GokOn4AhWBm9gFHQR-C1YQ_AUoAXoECAMQAw&biw=1920&bih=947&dpr=1",
         "dog": "https://www.google.com/search?q=dog&rlz=1C1MSIM_enID949ID949&sxsrf=ALiCzsai2Vi2E7oTLhekk6ntCNS9-S6skw:1657278125403&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiTodWPkun4AhV763MBHdMJCVEQ_AUoAXoECAMQAw&biw=1920&bih=890&dpr=1"
