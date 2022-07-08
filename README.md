@@ -4,6 +4,9 @@ This project based on captioning [model](https://huggingface.co/nlpconnect/vit-g
 
 ## TODO
 
+- [ ] Make dataset scraing script
 - [ ] Make bulk image labeling logic
 - [ ] Make high level logic
 - [ ] Add evaluation
+
+**Paradox that asked by my friend**: If one could auto label, then why need to train another model?
