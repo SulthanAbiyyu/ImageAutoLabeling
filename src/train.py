@@ -57,3 +57,5 @@ def image_to_label_keywords(image_paths: str, keywords: list) -> str:
     for keyword in keywords:
         if keyword in preds:
             return keyword
+        else:
+            return "None"
