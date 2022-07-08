@@ -4,7 +4,7 @@ This project based on captioning [model](https://huggingface.co/nlpconnect/vit-g
 
 ## TODO
 
-- [ ] Make dataset scraing script
+- [x] Make dataset scraping script
 - [ ] Make bulk image labeling logic
 - [ ] Make high level logic
 - [ ] Add evaluation
